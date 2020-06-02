@@ -1,6 +1,6 @@
 # CacheStats
 
-View file cache residency of files.
+View file cache residency of files, as a gem.
 
 ## Installation
 
